@@ -13,7 +13,7 @@
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)aaaaaaa
 # jp		      Japón (Tokyo)
-# sa		      Sudamérica (São Paulo)aaa
+# sa		      Sudamérica (São Paulo)aaaaaa
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
 
